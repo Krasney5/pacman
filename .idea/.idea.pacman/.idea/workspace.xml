@@ -10,6 +10,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Point/PointsCounter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Point/Point.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Point/key.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Point/keyControler.cs" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="2VFc9yPXizM0RZSDsErOW6pg0vo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694435135346</updated>
       <workItem from="1694435155961" duration="65000" />
+      <workItem from="1694871221594" duration="1387000" />
     </task>
     <servers />
   </component>

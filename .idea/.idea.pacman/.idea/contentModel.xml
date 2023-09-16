@@ -69,8 +69,8 @@
           <e p="LightRenderer.cs" t="Include" />
           <e p="MobileDevice.cs" t="Include" />
           <e p="Point" t="Include">
-            <e p="Point.cs" t="Include" />
-            <e p="PointsCounter.cs" t="Include" />
+            <e p="key.cs" t="Include" />
+            <e p="keyControler.cs" t="Include" />
             <e p="PointVFX.cs" t="Include" />
           </e>
           <e p="Progress.cs" t="Include" />
@@ -129,6 +129,7 @@
             <e p="EmojiOne.json" t="Include" />
           </e>
         </e>
+        <e p="UI" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
