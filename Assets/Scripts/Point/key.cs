@@ -11,12 +11,12 @@ namespace ScriptsPoint
 
     public class key : MonoBehaviour
     {
-        private keyControler score;
+        private keyControler _controler;
 
 
         private void Awake()
         {
-            score = FindObjectOfType<keyControler>();
+            _controler = FindObjectOfType<keyControler>();
         }
 
         private void OnTriggerEnter(Collider collider)
@@ -24,8 +24,8 @@ namespace ScriptsPoint
             if (collider.gameObject.tag == "Player")
             {
                 Destroy(gameObject);
-                score.addScore();
-
+                _controler.addScore();
+                _controler.SpawnDoor();
             }
         }
     }

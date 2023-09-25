@@ -28,6 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Doors/TaskDoor.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -35,6 +38,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Point/Point.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Point/keyControler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Point/key.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Doors/TaskDoor.cs" />
       </list>
     </option>
   </component>
@@ -82,7 +86,8 @@
       <workItem from="1694871221594" duration="1387000" />
       <workItem from="1695418118634" duration="875000" />
       <workItem from="1695474155006" duration="501000" />
-      <workItem from="1695475138287" duration="780000" />
+      <workItem from="1695475138287" duration="938000" />
+      <workItem from="1695650723154" duration="5729000" />
     </task>
     <servers />
   </component>

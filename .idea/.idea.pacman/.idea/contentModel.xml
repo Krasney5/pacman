@@ -61,6 +61,9 @@
           <e p="MainMenu" t="Include" />
         </e>
         <e p="Scripts" t="Include">
+          <e p="Doors" t="Include">
+            <e p="TaskDoor.cs" t="Include" />
+          </e>
           <e p="Enemy" t="Include">
             <e p="EnemyAttack.cs" t="Include" />
             <e p="EnemyMovement.cs" t="Include" />
